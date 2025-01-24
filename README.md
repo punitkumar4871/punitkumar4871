@@ -38,12 +38,13 @@ Here's the updated profile based on your request:
 ## 📊 **Metrics**  
 
 ### 📈 **Notable Contributions**  
-<img src="assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" />  
-
-![GitHub Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=punitkumar4871)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
+  <img alt="GitHub Contributions 3D" src="/profile-3d-contrib/profile-night-green.svg" />
+</picture>
 
 ### 🏅 **Achievements**  
-<img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />  
+<img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
 
 ---
 
