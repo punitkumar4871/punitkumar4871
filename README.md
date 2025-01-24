@@ -23,16 +23,15 @@
 ## 🏆 **Contributions**  
 
 ### GitHub Activity  
-![GitHub Contributions 3D](https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/profile-3d-contrib/profile-night-green.svg)  
-
-
-## 📊 **Metrics**  
-
-### 📈 **Notable Contributions**  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
   <img alt="GitHub Contributions 3D" src="/profile-3d-contrib/profile-night-green.svg" />
 </picture>
+
+## 📊 **Metrics**  
+
+### 📈 **Notable Contributions**  
+
 
 ### 🏅 **Achievements**  
 <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
