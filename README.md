@@ -31,7 +31,7 @@
 ## 📊 **Metrics**  
 
 ### 📈 **Notable Contributions**  
-
+<img src="assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" />
 
 ### 🏅 **Achievements**  
 <img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
