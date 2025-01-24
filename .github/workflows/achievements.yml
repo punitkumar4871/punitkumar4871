@@ -16,7 +16,7 @@ jobs:
           filename: assets/metrics.plugin.achievements.svg
 
           # Options
-          user: yashvisharma1204
+          user: punitkumar4871
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
