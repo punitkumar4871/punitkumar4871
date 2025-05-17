@@ -19,23 +19,6 @@
   - 🌍 [LinkedIn](https://www.linkedin.com/in/punitjumat/)  
   - 📺 [YouTube](https://www.youtube.com/@punitjumat)   
 
-
-## 🏆 **Contributions**  
-
-### GitHub Activity  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-  <img alt="GitHub Contributions 3D" src="/profile-3d-contrib/profile-night-green.svg" />
-</picture>
-
-## 📊 **Metrics**  
-
-### 📈 **Notable Contributions**  
-<img src="assets/metrics.plugin.notable.contributions.svg" alt="Notable Contributions" />
-
-### 🏅 **Achievements**  
-<img src="assets/metrics.plugin.achievements.svg" alt="Achievements" />
-
 ## 🚀 **Stay Connected**  
 
 - 🌟 Let’s collaborate on exciting projects and ideas!  
