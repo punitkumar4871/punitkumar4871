@@ -1,0 +1,60 @@
+name: Commit Time Gist Report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0' # every Sunday
+
+jobs:
+  commit-time-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout full repo history
+        uses: actions/checkout@v4
+        with:
+           fetch-depth: 0
+      - name: Get commit timestamps from 2023 to now
+        run: git log --since="2023-01-01" --pretty=format:"%an %aI" > commits.txt
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Get commit timestamps
+        run: git log --pretty=format:"%an %aI" > commits.txt
+
+      - name: Write report script
+        run: |
+          echo "import datetime" > generate_report.py
+          echo "with open('commits.txt') as f:" >> generate_report.py
+          echo "    times = [line.strip().split()[-1] for line in f.readlines()]" >> generate_report.py
+          echo "counts = {\"🌞 Morning\": 0, \"🌆 Daytime\": 0, \"🌃 Evening\": 0, \"🌙 Night\": 0}" >> generate_report.py
+          echo "total = len(times)" >> generate_report.py
+          echo "for t in times:" >> generate_report.py
+          echo "    hour = datetime.datetime.fromisoformat(t).hour" >> generate_report.py
+          echo "    if 5 <= hour < 12:" >> generate_report.py
+          echo "        counts[\"🌞 Morning\"] += 1" >> generate_report.py
+          echo "    elif 12 <= hour < 17:" >> generate_report.py
+          echo "        counts[\"🌆 Daytime\"] += 1" >> generate_report.py
+          echo "    elif 17 <= hour < 21:" >> generate_report.py
+          echo "        counts[\"🌃 Evening\"] += 1" >> generate_report.py
+          echo "    else:" >> generate_report.py
+          echo "        counts[\"🌙 Night\"] += 1" >> generate_report.py
+          echo "def bar(percent):" >> generate_report.py
+          echo "    full = int(percent // 4)" >> generate_report.py
+          echo "    return '█' * full + '░' * (25 - full)" >> generate_report.py
+          echo "with open('report.md', 'w') as out:" >> generate_report.py
+          echo "    for label, count in counts.items():" >> generate_report.py
+          echo "        pct = (count / total) * 100" >> generate_report.py
+          echo "        out.write(f'{label:<13} {count:3} commits  {bar(pct)}{pct:.1f}%\\n')" >> generate_report.py
+      - name: Run Python script to generate report
+        run: python3 generate_report.py
+
+      - name: Create or Update Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          gist_id: 3a72ec84c14f1db23fd1734378e0d368
+          gist_file_name: Contribution.md
+          file_path: report.md
