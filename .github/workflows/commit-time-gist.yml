@@ -1,5 +1,4 @@
 name: Commit Time Gist Report
-
 on:
   workflow_dispatch:
   schedule:
