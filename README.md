@@ -73,7 +73,7 @@
   <h2>📬 Reach Out To Me!</h2>
   <p>
     <a href="https://linkedin.com/in/punitkumar4871" target="_blank">
-          ![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60)
+          <img src="https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60" width="50">
     <a href="https://github.com/punitkumar4871" target="_blank">
       <img src="assets/social_github.png" alt="GitHub" width="50"/>
     </a>
