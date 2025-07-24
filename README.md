@@ -28,7 +28,7 @@
     <td width="50%" valign="top" align="center">
       <h2 align="center">💡 My Dev Superpowers!</h2>
       <p>
-        <img src="assets/dev_superpowers.png" alt="Developer Superpowers" width="250"/>
+        <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/1f21c468-c6a6-4531-b98a-cb4efa9cc507" />
       </p>
       <p>
         A Student by day ☼ and a Developer by night ☾
