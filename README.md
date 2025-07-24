@@ -13,7 +13,7 @@
   <tr>
     <td width="50%" valign="top">
       <h2 align="center">🎓 About Me</h2>
-      ![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/48f24198-8cf4-4171-8572-e7ca3c3cb511)
+      <img src="https://github.com/user-attachments/assets/48f24198-8cf4-4171-8572-e7ca3c3cb511" width="250">
       <ul>
         <li>👨‍🎓 Pursuing <b>Computer Science and Engineering</b> with a specialization in <b>AI and Data Engineering</b> 👑</li>
         <li>❤️ My Passions:</li>
