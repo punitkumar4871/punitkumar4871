@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="assets/banner_hello_dev.png" alt="Hello There! A Student by Day, Developer by Night" width="700"/>
-</div>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6aacab6-c79b-46d8-bbe3-3b28fe3f120b" />
+
 
 <br>
 
