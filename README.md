@@ -1,82 +1,18 @@
-<div align="center">
-  <h1>👋 Hello there! I am Punit Kumar🌟</h1>
-</div>
+Hello there! 🌟
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">🎓 About Me</h2>
-      <img src="https://github.com/user-attachments/assets/48f24198-8cf4-4171-8572-e7ca3c3cb511" width="250">
-      <ul>
-        <li>👨‍🎓 Pursuing <b>Computer Science and Engineering</b> with a specialization in <b>AI and Data Engineering</b> 👑</li>
-        <li>❤️ My Passions:</li>
-          <ul>
-            <li>✨ <b>Generative AI</b></li>
-            <li>🧠 <b>Machine Learning</b></li>
-          </ul>
-        <li>📚 Currently Deep-Diving into: <b>Java</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h2 align="center">💡 My Dev Superpowers!</h2>
-      <p>
-        <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1f21c468-c6a6-4531-b98a-cb4efa9cc507" />
-        <img width = "200" src="https://github.com/user-attachments/assets/622bd287-7d91-4777-9e62-ca00733e7568">
-      </p>
-      <p>
-        <b>🔨 Actively Building: <b>Machine Learning Projects</b>
-        A Student by day ☼ and a Developer by night ☾
-      </p>
-      <p>
-        🌟 Let’s collaborate on exciting projects and ideas! <br>
-        Explore my repositories and feel free to drop me a message.
-      </p>
-    </td>
-  </tr>
-</table>
+A Student by day ☼ and a Developer by night ☾
 
-<br>
+###🎓 About Me
 
-<div align="center">
-  <h2>🛠️ Skills I Use Daily</h2>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </p>
-</div>
+- 👨‍🎓 Student: Pursuing Computer Science and Engineering with a specialization in AI and Data Engineering 👑
+- 🛠️ Skills I Use Daily:
+- `.html`, `.css`, `.py`, `.java`, `.js`, `.sql`
+- ❤️ Passions:Generative AI, Machine Learning
+- 📚 Currently Learning: Java
+- 🔨 Working On: Machine Learning Projects
+- 📬 Reach Out To Me: 🌍 LinkedIn
+- 📺 YouTube
 
-<br>
-
-<div align="center">
-  <h2>📈 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Punit Kumar's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar4871&layout=compact&theme=dark&hide_title=false&hide_border=true" alt="Punit Kumar's Top Languages"/>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>📬 Reach Out To Me!</h2>
-  <p>
-    <a href="https://linkedin.com/in/punitkumar4871" target="_blank">
-          <img src="https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60" width="50">
-    </a>
-    <a href="https://www.youtube.com/your_youtube_channel" target="_blank">
-      <img src="https://github.com/user-attachments/assets/fcefde34-4f52-4da2-b77e-1a56c89409b4" alt="YouTube" width="50"/>
-    </a>
-
-  </p>
-</div>
-
-<div align="center">
-  🚀 Stay Connected!
-</div>
+###🚀 Stay Connected
+🌟 Let’s collaborate on exciting projects and ideas!
+Explore my repositories and feel free to drop me a message
