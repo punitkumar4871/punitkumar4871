@@ -1,4 +1,4 @@
-<div align="center">
+<img width="528" height="528" alt="image" src="https://github.com/user-attachments/assets/55e0ee99-af71-4d07-adae-7b2345087bfc" /><div align="center">
   <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/header.png" alt="Header Image" width="800"/> </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/machine_learning_sticker.png" alt="Machine Learning Sticker" width="200"/>
+      <img width="528" height="528" alt="image" src="https://github.com/user-attachments/assets/41321cdc-317f-42b7-98b8-85f24e02f00d" />
       <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/deep_learning_sticker.png" alt="Deep Learning Sticker" width="200"/>
     </td>
     <td width="50%" valign="top">
@@ -58,8 +58,6 @@
 <div align="center">
   <h2>STATS</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Punit Kumar's GitHub Stats"/>
-
-  <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/output/github-contribution-grid-snake-dark.svg" alt="Punit Kumar's Contribution Graph"/>
   </div>
 
 <br>
