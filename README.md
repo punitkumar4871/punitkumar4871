@@ -20,7 +20,6 @@
             <li>🧠 <b>Machine Learning</b></li>
           </ul>
         <li>📚 Currently Deep-Diving into: <b>Java</b></li>
-        <li>🔨 Actively Building: <b>Machine Learning Projects</b></li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
@@ -30,6 +29,7 @@
         <img width = "200" src="https://github.com/user-attachments/assets/622bd287-7d91-4777-9e62-ca00733e7568">
       </p>
       <p>
+        <b>🔨 Actively Building: <b>Machine Learning Projects</b>
         A Student by day ☼ and a Developer by night ☾
       </p>
       <p>
