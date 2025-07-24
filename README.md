@@ -64,7 +64,7 @@
   <h2>📈 My GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Punit Kumar's GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar4871&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Punit Kumar's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar4871&layout=compact&theme=dark&hide_title=false&hide_border=true" alt="Punit Kumar's Top Languages"/>
 </div>
 
 <br>
@@ -76,7 +76,7 @@
           <img src="https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60" width="50">
     </a>
     <a href="https://www.youtube.com/your_youtube_channel" target="_blank">
-      <img src="[assets/social_youtube.png](https://github.com/user-attachments/assets/fcefde34-4f52-4da2-b77e-1a56c89409b4)" alt="YouTube" width="50"/>
+      <img src="https://github.com/user-attachments/assets/fcefde34-4f52-4da2-b77e-1a56c89409b4" alt="YouTube" width="50"/>
     </a>
 
   </p>
