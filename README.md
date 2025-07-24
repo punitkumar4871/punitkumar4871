@@ -1,54 +1,45 @@
-<img width="528" height="528" alt="image" src="https://github.com/user-attachments/assets/55e0ee99-af71-4d07-adae-7b2345087bfc" /><div align="center">
-  <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/header.png" alt="Header Image" width="800"/> </div>
-
 <div align="center">
-  <h3>COMPETITIVE PROGRAMMER. SOFTWARE ENGINEER. AI/ML ENTHUSIAST.</h3>
+  <img src="assets/banner_hello_dev.png" alt="Hello There! A Student by Day, Developer by Night" width="700"/>
 </div>
 
-<div align="center">
-  <h4>VISITORS COUNT</h4>
-  <img src="https://komarev.com/ghpvc/?username=punitkumar4871&color=blue" alt="Visitor Count">
-</div>
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/matrix_background.gif" alt="Matrix Background (placeholder)" width="700"> </div>
+  👋 Hello there! 🌟
+</div>
 
 <br>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h2 align="center">🎓 About Me</h2>
+      <p align="center">
+        <img src="assets/icon_student.png" alt="Student Icon" width="100"/>
+      </p>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> I'm currently learning **Deep Neural Networks**.</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Ask me about **DSA, Machine Learning, React, Azure & Cloud**.</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> How to Reach Me: <a href="mailto:your_email@example.com">your_email@example.com</a></li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Fun fact: I am an Artist and a Chess Player.</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> I'm open to freelance work.</li>
+        <li>👨‍🎓 Pursuing <b>Computer Science and Engineering</b> with a specialization in <b>AI and Data Engineering</b> 👑</li>
+        <li>❤️ My Passions:</li>
+          <ul>
+            <li>✨ <b>Generative AI</b></li>
+            <li>🧠 <b>Machine Learning</b></li>
+          </ul>
+        <li>📚 Currently Deep-Diving into: <b>Java</b></li>
+        <li>🔨 Actively Building: <b>Machine Learning Projects</b></li>
       </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/brain_sticker.png" alt="Brain Sticker" width="200"/>
-      <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/software_engineer_sticker.png" alt="Software Engineer Sticker" width="200"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img width="528" height="528" alt="image" src="https://github.com/user-attachments/assets/41321cdc-317f-42b7-98b8-85f24e02f00d" />
-      <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/deep_learning_sticker.png" alt="Deep Learning Sticker" width="200"/>
-    </td>
-    <td width="50%" valign="top">
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> I'm currently working on <a href="https://medalyst.com/" target="_blank">medalyst</a>.</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Pursuing a bachelor's degree in **Computer Science Engineering** with a specialization in **Artificial Intelligence & Data Engineering** (2022-2026).</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Ex - AI/ML Engineer @ Eupehblity Private Limited</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Ex - React Native Developer Intern @Euphebility Private Limited</li>
-        <li><img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/main/assets/bullet_point.png" alt="Bullet" width="15"/> Ex - Project Management Intern @Tonuppo</li>
-      </ul>
+    <td width="50%" valign="top" align="center">
+      <h2 align="center">💡 My Dev Superpowers!</h2>
+      <p>
+        <img src="assets/dev_superpowers.png" alt="Developer Superpowers" width="250"/>
+      </p>
+      <p>
+        A Student by day ☼ and a Developer by night ☾
+      </p>
+      <p>
+        🌟 Let’s collaborate on exciting projects and ideas! <br>
+        Explore my repositories and feel free to drop me a message.
+      </p>
     </td>
   </tr>
 </table>
@@ -56,52 +47,52 @@
 <br>
 
 <div align="center">
-  <h2>STATS</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Punit Kumar's GitHub Stats"/>
-  </div>
-
-<br>
-
-<div align="center">
-  <h2>TOOLS</h2>
+  <h2>🛠️ Skills I Use Daily</h2>
   <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>Connect with me</h2>
+  <h2>📈 My GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Punit Kumar's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar4871&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Punit Kumar's Top Languages"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/output/github-contribution-grid-snake-dark.svg" alt="Punit Kumar's Contribution Graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📬 Reach Out To Me!</h2>
   <p>
-    <a href="https://linkedin.com/in/punitkumar4871" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/punitkumar4871" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://instagram.com/your_instagram_id" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    </p>
+    <a href="https://linkedin.com/in/punitkumar4871" target="_blank">
+      <img src="assets/social_linkedin.png" alt="LinkedIn" width="50"/>
+    </a>
+    <a href="https://github.com/punitkumar4871" target="_blank">
+      <img src="assets/social_github.png" alt="GitHub" width="50"/>
+    </a>
+    <a href="https://www.youtube.com/your_youtube_channel" target="_blank">
+      <img src="assets/social_youtube.png" alt="YouTube" width="50"/>
+    </a>
+    <a href="mailto:your_email@example.com">
+      <img src="assets/social_email.png" alt="Email" width="50"/>
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  🚀 Stay Connected!
 </div>
