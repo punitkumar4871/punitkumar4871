@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <h1>👋 Hello there! 🌟</h1>
+  <h1>👋 Hello there! I am Punit Kumar🌟</h1>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
     <td width="50%" valign="top">
       <h2 align="center">🎓 About Me</h2>
       <p align="center">
-        <img src="assets/icon_student.png" alt="Student Icon" width="100"/>
+        ![226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af](https://github.com/user-attachments/assets/48f24198-8cf4-4171-8572-e7ca3c3cb511)
       </p>
       <ul>
         <li>👨‍🎓 Pursuing <b>Computer Science and Engineering</b> with a specialization in <b>AI and Data Engineering</b> 👑</li>
