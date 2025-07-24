@@ -2,7 +2,7 @@ Hello there! 🌟
 
 A Student by day ☼ and a Developer by night ☾
 
-###🎓 About Me
+###  About Me
 
 - 👨‍🎓 Student: Pursuing Computer Science and Engineering with a specialization in AI and Data Engineering 👑
 - 🛠️ Skills I Use Daily:
