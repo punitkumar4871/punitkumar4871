@@ -74,15 +74,11 @@
   <p>
     <a href="https://linkedin.com/in/punitkumar4871" target="_blank">
           <img src="https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60" width="50">
-    <a href="https://github.com/punitkumar4871" target="_blank">
-      <img src="assets/social_github.png" alt="GitHub" width="50"/>
     </a>
     <a href="https://www.youtube.com/your_youtube_channel" target="_blank">
-      <img src="assets/social_youtube.png" alt="YouTube" width="50"/>
+      <img src="[assets/social_youtube.png](https://github.com/user-attachments/assets/fcefde34-4f52-4da2-b77e-1a56c89409b4)" alt="YouTube" width="50"/>
     </a>
-    <a href="mailto:your_email@example.com">
-      <img src="assets/social_email.png" alt="Email" width="50"/>
-    </a>
+
   </p>
 </div>
 
