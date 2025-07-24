@@ -7,8 +7,6 @@
   <h1>👋 Hello there! I am Punit Kumar🌟</h1>
 </div>
 
-<br>
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -67,8 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=punitkumar4871&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" alt="Punit Kumar's GitHub Stats"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punitkumar4871&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Punit Kumar's Top Languages"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/punitkumar4871/punitkumar4871/output/github-contribution-grid-snake-dark.svg" alt="Punit Kumar's Contribution Graph"/>
 </div>
 
 <br>
@@ -77,8 +73,7 @@
   <h2>📬 Reach Out To Me!</h2>
   <p>
     <a href="https://linkedin.com/in/punitkumar4871" target="_blank">
-      <img src="assets/social_linkedin.png" alt="LinkedIn" width="50"/>
-    </a>
+          ![235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483](https://github.com/user-attachments/assets/6bfb9f32-fde4-4da0-bbd2-79d204120f60)
     <a href="https://github.com/punitkumar4871" target="_blank">
       <img src="assets/social_github.png" alt="GitHub" width="50"/>
     </a>
