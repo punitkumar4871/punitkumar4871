@@ -28,8 +28,8 @@
     <td width="50%" valign="top" align="center">
       <h2 align="center">💡 My Dev Superpowers!</h2>
       <p>
-        <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/1f21c468-c6a6-4531-b98a-cb4efa9cc507" />
-        <img width = "250" src="https://github.com/user-attachments/assets/622bd287-7d91-4777-9e62-ca00733e7568">
+        <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1f21c468-c6a6-4531-b98a-cb4efa9cc507" />
+        <img width = "200" src="https://github.com/user-attachments/assets/622bd287-7d91-4777-9e62-ca00733e7568">
       </p>
       <p>
         A Student by day ☼ and a Developer by night ☾
